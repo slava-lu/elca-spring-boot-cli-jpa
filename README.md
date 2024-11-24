@@ -22,3 +22,6 @@ The Elca Spring Boot JPA Module contains the necessary dependencies to integrate
 * Flyway Migration
 * PostgreSQL Driver
 * Flyway Migration
+
+## Additional Info
+* To learn how to use Spring Boot Flyway for data migration, read this [docs](https://docs.spring.io/spring-boot/how-to/data-initialization.html#howto.data-initialization.migration-tool.flyway) 

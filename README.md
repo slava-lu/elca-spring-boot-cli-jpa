@@ -25,3 +25,4 @@ The Elca Spring Boot JPA Module contains the necessary dependencies to integrate
 
 ## Additional Info
 * To learn how to use Spring Boot Flyway for data migration, read this [docs](https://docs.spring.io/spring-boot/how-to/data-initialization.html#howto.data-initialization.migration-tool.flyway) 
+* After starting the app you should wee two Todo items listed in the console output.

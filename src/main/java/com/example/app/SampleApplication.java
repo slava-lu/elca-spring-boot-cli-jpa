@@ -1,7 +1,7 @@
-package com.example.demo;
+package com.example.app;
 
-import com.example.demo.Todo.Todo;
-import com.example.demo.Todo.TodoRepository;
+import com.example.app.Todo.Todo;
+import com.example.app.Todo.TodoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

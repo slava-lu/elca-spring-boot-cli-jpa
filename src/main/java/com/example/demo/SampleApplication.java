@@ -9,12 +9,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @RequiredArgsConstructor
-public class DemoApplication implements CommandLineRunner {
+public class SampleApplication implements CommandLineRunner {
 
 	private final TodoRepository todoRepository;
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(SampleApplication.class, args);
 	}
 
 	public void run(String... args) throws Exception {

@@ -1,4 +1,4 @@
-package com.example.app.Todo;
+package com.example.app.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +12,7 @@ public class TodoRepositoryTest {
     private TodoRepository todoRepository;
 
     @Test
-    public void saveTodo_returnSavedTodo() {
+    public void save_savingTodoEntity_returnsSavedTodo() {
 
         Todo todo = Todo.builder()
                 .title("test")

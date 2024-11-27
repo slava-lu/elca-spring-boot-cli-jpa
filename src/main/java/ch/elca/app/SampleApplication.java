@@ -1,7 +1,7 @@
-package com.example.app;
+package ch.elca.app;
 
-import com.example.app.todo.Todo;
-import com.example.app.todo.TodoRepository;
+import ch.elca.app.todo.Todo;
+import ch.elca.app.todo.TodoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

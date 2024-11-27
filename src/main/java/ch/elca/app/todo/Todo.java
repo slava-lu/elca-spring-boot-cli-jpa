@@ -1,4 +1,4 @@
-package com.example.app.todo;
+package ch.elca.app.todo;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
